@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,Node.js,,Mongodb**
+- 🌱 I’m currently learning **ReactJS,Node.js,MongoDb**
 
 - 👨‍💻 All of my projects are available at [https://main--anurag0208.netlify.app/](https://main--anurag0208.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
-- 📫 How to reach me **ghosha537@gmail.com**
+- 📫 How to reach me? **ghosha537@gmail.com**
 
-- ⚡ Fun fact **I think I am funny until I see people's confused faces after I crack a joke.**
+- ⚡ Fun fact- **I think I am funny until I see people's confused faces after I crack a joke.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
